@@ -1,0 +1,10 @@
+Q1 <img width="1094" height="562" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/5463d8a6-e06e-4783-b2ab-6174172fa80d" />
+Q2 <img width="1485" height="429" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/ca74d509-49f4-4571-81c2-e2f2e4b8c65f" />
+Q3 <img width="974" height="500" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/ca8f6c58-d513-440f-bb67-e6f5d09daf53" />
+Q4 <img width="1054" height="591" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/005ca581-4180-408d-84f3-35f79e94e112" />
+Q5 <img width="1098" height="796" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/c233ad83-98fb-4d33-b237-da42793b0715" />
+Q6 <img width="1183" height="602" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/974942b1-f9d5-4efe-81d1-08a77f92a8e0" />
+Q7 <img width="1161" height="409" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/c712872c-8678-436a-b6e6-0824a44fe1f0" />
+Q8 <img width="1199" height="381" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/9b4ba862-4d02-433f-bbf4-5a31eb270e24" />
+Q9 <img width="1054" height="464" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/216cbac4-fb10-43c8-9eaf-778b8da57bd6" />
+Q10  <img width="959" height="784" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/481faca7-3f18-43f3-bcef-caa0ef5525d6" />
